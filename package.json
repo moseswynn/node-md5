@@ -26,7 +26,7 @@
     "webpack": "webpack -p"
   },
   "dependencies": {
-    "charenc": "0.0.2",
+    "charenc": "github:pvorb/node-charenc#c92eade",
     "crypt": "0.0.2",
     "is-buffer": "~1.1.6"
   },
@@ -34,6 +34,5 @@
     "mocha": "~2.3.4",
     "webpack": "~2.4.1"
   },
-  "optionalDependencies": {},
   "license": "BSD-3-Clause"
 }
